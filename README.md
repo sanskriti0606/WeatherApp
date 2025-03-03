@@ -1,4 +1,4 @@
-### Deployed link : https://weather-drab-tau.vercel.app/
+## Deployed link : https://weather-drab-tau.vercel.app/
 ## Getting Started
 
 First, run the development server:
